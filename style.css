@@ -1,0 +1,12 @@
+p{
+    position: relative;
+    width: 250px;
+    float: left;
+}
+
+img{
+    float: right;
+    height: 250px;
+    width: 400px;
+    
+}
